@@ -1,7 +1,7 @@
 # ***ERO1A* drives immunosuppression and attenuates response to immune checkpoint blockade**
 
 
-This page recorded the codes and data used and mentioned in [*Cell Report Medicine*](https://www.sciencedirect.com/science/article/pii/S2666379123003737?via%3Dihub). And you could downloaded this paper by clicking [here](pdf/Ablation of ERO1A induces lethal endoplasmic reticulum stress responses and immunogenic cell death to activate anti-tumor immunity.pdf)
+This page recorded the codes and data used and mentioned in [*Cell Report Medicine*](https://www.sciencedirect.com/science/article/pii/S2666379123003737?via%3Dihub). And you could downloaded this paper by clicking [here](pdf/paper.pdf)
 
 ![Graphical abstract](README.assets/Graphical%20abstract.png)
 
